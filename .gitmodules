@@ -1,0 +1,3 @@
+[submodule "shortlify-api"]
+	path = shortlify-api
+	url = git@github.com:PauloHPMKT/shortlify-api.git
